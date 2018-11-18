@@ -1,0 +1,11 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root.Source Files...\..\src\i2c_slave_interrupt.c.Config.0]
+ExternDep=..\..\src\i2c_slave_interrupt.c "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\I2c_slave_interrupt.h" "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\stm8s.h" "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\stm8s_type.h" "C:\Program Files\Raisonance\Ride\inc\ST7\intrist7.h" 
+
+[Root.Source Files...\..\src\main.c.Config.0]
+ExternDep=..\..\src\main.c "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\stm8s.h" "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\stm8s_type.h" "C:\Program Files\Raisonance\Ride\inc\ST7\intrist7.h" "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\I2c_slave_interrupt.h" "C:\Documents and Settings\jerome semette\Desktop\AN3281-STM8_optimized_I2C_examples\STM8S\STM8S_I2C_Slave\inc\stm8s.h" 

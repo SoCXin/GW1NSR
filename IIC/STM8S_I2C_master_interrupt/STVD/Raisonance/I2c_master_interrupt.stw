@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=i2c_master_interrupt.stp
+Dependencies=
+[Options]
+ActiveProject=i2c_master_interrupt
+ActiveConfig=Debug
+AddSortedElements=1
