@@ -1,33 +1,30 @@
-﻿# [STM8S](https://github.com/mcuyun/STM8S) 
+﻿# [STM8S](https://github.com/sochub/STM8S) 
 
-STM8S高性能通用系列
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+####  qitas@qitas.cn
 
-#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+#### 归属：[STM8](https://github.com/sochub/STM8) 
 
----
+## [简介](https://github.com/sochub/STM8S/wiki)
 
-# 简介
+STM8单片机通用系列，采用ST的130纳米工艺技术和先进内核架构，主频达到24 MHz，处理能力高达20MIPS。
 
----
+[![sites](SoC/STM8S.png)](https://www.st.com/en/microcontrollers-microprocessors/stm8s-series.html) 
 
-## 组成
+## [组成](https://github.com/sochub/STM8S)
 
-#### docs
+#### [文档](docs/)
 
-包括STM8S中文参考手册.pdf
+#### [资源](src/)
 
-#### IIC
+#### [工程](project/)
 
-包括STM8S的IIC驱动工程
+### [已收录](https://github.com/sochub/STM8S)
 
----
+- [STM8S207](https://github.com/sochub/STM8S207) 
 
-为锻造最美之器
+- [STM8S903](https://github.com/sochub/STM8S903) 
 
-###  www.mcuyun.com   |    qitas@qitas.cn
-
-
-
+##  [SoC开发平台](http://www.qitas.cn)  
 
