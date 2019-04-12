@@ -6,12 +6,14 @@
 
 ## [描述](https://github.com/sochub/STM8S/wiki) 
 
-STM8单片机通用系列，8位单片机但不是8051架构，采用ST的130nm工艺和内核架构，主频达24MHz，处理能力达20MIPS
+STM8S通用系列，属于8位单片机但不是8051架构，采用ST的130nm工艺和内核架构，主频达24MHz，处理能力达20MIPS
+
+STM8S的最大竞争优势在于相应的源码资源和丰富的产品线，全面的封装尺寸，不占优势的地方在于大量可替代高性价比的8051方案
 
 [![sites](SoC/STM8S.png)](https://www.st.com/en/microcontrollers-microprocessors/stm8s-series.html) 
 [![sites](SoC/STM8S00.png)](https://www.st.com/en/microcontrollers-microprocessors/stm8s-value-line.html) 
 
-## [组成](https://github.com/sochub/STM8S)
+### [组成](https://github.com/sochub/STM8S)
 
 - [文档](docs/)
 - [资源](src/)
