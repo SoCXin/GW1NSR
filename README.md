@@ -18,9 +18,10 @@ STM8S通用系列，属于8位单片机但不是8051架构，采用ST的130nm工
 * [文档](docs/)
 * [资源](src/)
     * [SDCC资源](src/SDCC)
-* [工程](project/)
+    * [IAR工程](src/IAR)
+    * [make工程](src/make)
 
-### [收录型号](https://github.com/sochub/STM8S)
+### [产品型号](https://github.com/sochub/STM8S)
 
 * [STM8S00](https://github.com/sochub/STM8S00) 
 * [STM8S10](https://github.com/sochub/STM8S10) 
