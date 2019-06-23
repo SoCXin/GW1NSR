@@ -1,1 +1,0 @@
-This example demonstrates how to execute code from RAM. Two functions are implemented in separate code sections and copied into RAM during initialization. This example assumes that each function would occupy less than 256 bytes. For more info refer to this [article](https://lujji.github.io/blog/executing-code-from-ram-on-stm8).

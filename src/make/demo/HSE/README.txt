@@ -1,1 +1,0 @@
-This example demonstrates clock controller functionality. An external crystal is connected between OSCIN and OSCOUT pins. Master clock is output on CLK_CCO pin. F_CPU value must be adjusted according to HSE speed.
