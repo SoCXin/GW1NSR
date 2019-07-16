@@ -3,10 +3,10 @@
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
 #### 厂商：[ST](https://github.com/sochub/ST) 
-
 #### 架构：[STM8](https://github.com/sochub/STM8)
+#### 收录芯片定级：[Level](https://github.com/sochub/Level)
 
-## [描述](https://github.com/sochub/STM8S/wiki) 
+## [STM8S简介](https://github.com/sochub/STM8S/wiki) 
 
 STM8S通用系列，属于8位单片机但不是8051架构，采用ST的130nm工艺和内核架构，主频可达24MHz，处理能力约20MIPS。
 
@@ -21,12 +21,17 @@ STM8S通用系列，属于8位单片机但不是8051架构，采用ST的130nm工
     * [IAR工程](src/IAR)
     * [make工程](src/make)
 
-### [产品型号](https://github.com/sochub/STM8S)
+### [关联资源](https://github.com/sochub)
 
-* [STM8S00](https://github.com/sochub/STM8S00) 
-* [STM8S10](https://github.com/sochub/STM8S10) 
-* [STM8S20](https://github.com/sochub/STM8S20) 
-* [STM8S90](https://github.com/sochub/STM8S90) 
+* [SDCC编译](https://github.com/sochub/sdcc)
+
+### [收录子类](https://github.com/sochub/STM8S)
+
+* [STM8S003](https://github.com/sochub/STM8S003) 
+* [STM8S103](https://github.com/sochub/STM8S103) 
+* [STM8S105](https://github.com/sochub/STM8S105) 
+* [STM8S207](https://github.com/sochub/STM8S207) 
+* [STM8S903](https://github.com/sochub/STM8S903) 
 
 ### [选型建议](https://github.com/sochub/STM8S)
 
