@@ -16,7 +16,7 @@
                 <debug>1</debug>
                 <option>
                     <name>GenDeviceSelectMenu</name>
-                    <state>STM8S207RB	STM8S207RB</state>
+                    <state>STM8S103F3P	STM8S103F3P</state>
                 </option>
                 <option>
                     <name>GenCodeModel</name>
@@ -69,7 +69,7 @@
                 </option>
                 <option>
                     <name>GenLibInFormatterDescription</name>
-                    <state>No specifier n, no float, no scan set, no assignment suppressing.</state>
+                    <state>Full formatting, without multibytes.</state>
                 </option>
                 <option>
                     <name>GenLibOutFormatter</name>
@@ -78,7 +78,7 @@
                 </option>
                 <option>
                     <name>GenLibOutFormatterDescription</name>
-                    <state>No specifier a or A, no specifier n, no float.</state>
+                    <state>Full formatting, without multibytes.</state>
                 </option>
                 <option>
                     <name>GenStackSize</name>
@@ -117,7 +117,7 @@
                 </option>
                 <option>
                     <name>GenMathFunctionDescription</name>
-                    <state></state>
+                    <state>Default variants of cos, sin, tan, log, log10, pow, and exp.</state>
                 </option>
             </data>
         </settings>
@@ -607,7 +607,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>lnk0t.icf</state>
+                    <state>$TOOLKIT_DIR$\config\lnkstm8s207rb.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>
@@ -671,7 +671,7 @@
                 </option>
                 <option>
                     <name>IlinkProgramEntryLabel</name>
-                    <state></state>
+                    <state>__iar_program_start</state>
                 </option>
                 <option>
                     <name>DoFill</name>
