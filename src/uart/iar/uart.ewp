@@ -16,12 +16,12 @@
                 <debug>1</debug>
                 <option>
                     <name>GenDeviceSelectMenu</name>
-                    <state>STM8S103F3P	STM8S103F3P</state>
+                    <state>STM8S003K3	STM8S003K3</state>
                 </option>
                 <option>
                     <name>GenCodeModel</name>
                     <version>0</version>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>GenDataModel</name>
@@ -480,15 +480,15 @@
                 <option>
                     <name>OOCOutputFormat</name>
                     <version>2</version>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>OCOutputOverride</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>OOCOutputFile</name>
-                    <state>Project.srec</state>
+                    <state>uart.hex</state>
                 </option>
                 <option>
                     <name>OOCCommandLineProducer</name>
@@ -496,7 +496,7 @@
                 </option>
                 <option>
                     <name>OOCObjCopyEnable</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
             </data>
         </settings>
@@ -607,7 +607,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>$TOOLKIT_DIR$\config\lnkstm8s207c8.icf</state>
+                    <state>$TOOLKIT_DIR$\config\lnkstm8s003k3.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>

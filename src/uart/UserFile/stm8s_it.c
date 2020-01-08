@@ -338,8 +338,8 @@ INTERRUPT_HANDLER(TIM1_CAP_COM_IRQHandler, 12)
  {
    if(UART1_GetITStatus(UART1_IT_RXNE))
    {
-	   echo_data=UART1_ReceiveData8();
-            UART1_SendData8(echo_data);
+     echo_data=UART1_ReceiveData8();
+     UART1_SendData8(echo_data);
 	   //UART1_ClearITPendingBit(); not necessary
    }
 
