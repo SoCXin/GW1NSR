@@ -1,11 +1,11 @@
-﻿# [GW1NSR-LV4C](https://github.com/SoCXin/GW1NSR-LV4C)
+﻿# [GW1NSR](https://github.com/SoCXin/GW1NSR)
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [Gowin](http://www.gowinsemi.com.cn/)：[FPGA + Cortex-M3](https://github.com/SoCXin/Cortex-M3)
 * [L3R4](https://github.com/SoCXin/Level)：80 MHz
 
-## [简介](https://github.com/SoCXin/GW1NSR-LV4C/wiki)
+## [简介](https://github.com/SoCXin/GW1NSR/wiki)
 
 高云半导体GW1N系列产品是高云半导体小蜜蜂®(LittleBee®)家族第一代产品，具有低功耗、瞬时启动、低成本、非易失性、高安全性、封装类型丰富、使用方便灵活等特点。
 
@@ -13,7 +13,8 @@
 
 高云半导体 GW1NR系列产品是一款系统级封装芯片，在 GW1N 基础上集成 了丰富容量的 SDRAM 存储芯片，同时具有低功耗、瞬时启动、低成本、非易失性、高安全性、封装类型丰富、使用方便灵活等特点。
 
-[GW1NSR-LV4C](https://github.com/SoCXin/GW1NSR-LV4C) 内嵌 ARM Cortex-M3硬核处理器。
+[GW1NSR](https://github.com/SoCXin/GW1NSR) 内嵌 ARM Cortex-M3硬核处理器，为系统级封装芯片（SIP），集成了高云半导体 GW1NS系列
+FPGA 产品及存储芯片。
 
 [![sites](docs/GW1NSR.png)](http://www.gowinsemi.com.cn/prod_view.aspx?TypeId=10&FId=t3:10:3&Id=168)
 
@@ -31,10 +32,10 @@
 * [参考资源](src/)
 * [参考文档](docs/)
 * [参考工程](project/)
-* [入门文档](https://docs.soc.xin/GW1NSR-LV4C)
+* [入门文档](https://docs.soc.xin/GW1NSR)
 
 ### [选型建议](https://github.com/SoCXin)
 
-[GW1NSR-LV4C](https://github.com/SoCXin/GW1NSR-LV4C)
+[GW1NSR](http://cdn.gowinsemi.com.cn/DS861-1.4.4_GW1NSR%E7%B3%BB%E5%88%97FPGA%E4%BA%A7%E5%93%81%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.pdf)
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
